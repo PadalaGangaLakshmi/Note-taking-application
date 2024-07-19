@@ -1,0 +1,123 @@
+/* FormApp.css */
+.body{
+background-color: #6c757d;
+}
+div {
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    max-width: 500px;
+   
+    border-radius: 8px;
+    background-color: #9396a1;
+    
+  }
+  .form-group {
+    margin-bottom: 0px; /* Adds space between each field */
+  }
+  .form-group label {
+    margin-bottom: 1px;
+  }
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  div > label {
+    margin-bottom: 0px;
+    font-weight: bold;
+  }
+  
+  div > input {
+    margin-bottom: 0px;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 14px;
+    cursor: pointer;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a > button {
+    background-color: #6c757d;
+  }
+  
+  a > button:hover {
+    background-color: #5a6268;
+  }
+  
+  /* Container for the form and note list */
+div {
+    max-width: 600px; /* Adjust the width of the container */
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px;
+  }
+  
+  /* Styles for the form */
+  form {
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    gap: 15px; /* Space between form elements */
+    margin-bottom: 20px; /* Space below the form */
+  }
+  
+  /* Styles for input fields and textarea */
+  .formapp input,
+  .formapp textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc; /* Border around input fields */
+    border-radius: 5px; /* Rounded corners */
+    box-sizing: border-box; /* Includes padding in width calculation */
+  }
+  
+  /* Styles specifically for textarea */
+  .formapp textarea {
+    height: 100px; /* Set a fixed height for the textarea */
+    resize: vertical; /* Allow vertical resizing */
+  }
+  
+  /* Styles for the submit button */
+  
+  
+ 
+  /* Styles for the delete and edit buttons */
+ 
+  /* Styles for note items */
+  ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0;
+  }
+  
+  li {
+    border: 1px solid #ddd; /* Border around each note */
+    border-radius: 5px; /* Rounded corners */
+    padding: 15px; /* Add padding inside note */
+    margin-bottom: 0px; /* Space between notes */
+  }
+  
+  h2 {
+    margin-top: 10; /* Remove top margin from the title */
+  }
+  
