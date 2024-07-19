@@ -127,7 +127,8 @@ Note Creation Page:The note creation page allows users to input new note details
 
  
 
- 	![WhatsApp Image 2024-07-19 at 21 39 13_e48f0502](https://github.com/user-attachments/assets/5cb9f008-28ff-4e34-884e-0c905f2da5c1)
+ 	![WhatsApp Image 2024-07-19 at 21 43 06_4c8854c7](https://github.com/user-attachments/assets/44ee1275-bc95-4ecd-946f-e713ba1ca397)
+
 
   
   This documentation provides an in-depth guide for setting up and  running Secure Note-taking application.This is a full-stack note-taking application built with FastAPI for the backend, React for the frontend, and MongoDB for the database. This guide includes detailed instructions and commands for configuring both the backend and frontend environments, along with information API endpoints.
