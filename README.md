@@ -1,5 +1,5 @@
 **PROJECT NAME:** 
-                   Note -Taking Application
+                   **Note -Taking Application**
             
 **TECHNOLOGIES USED:** 
 
@@ -83,21 +83,22 @@ _**>>>Backend**_
     
  **Configure MongoDB connection.**
 
+
 _**>>>Frontend**_
 
 **Create a React application**
 
-   npx create-react-app frontend 
+    npx create-react-app frontend 
    
-   cd frontend
+    cd frontend
    
  **Install necessary npm packages**
 
-   npm install axios react-router-dom
+    npm install axios react-router-dom
    
  **Run the React Development Server**
 
-      npm start
+     npm start
 
 
 
@@ -115,13 +116,13 @@ _**>>>Backend**_
 
  **Notes:**
 
-    o	GET /notes: Retrieve all notes for the authenticated user.
+      o	GET /notes: Retrieve all notes for the authenticated user.
     
-    o	POST /notes: Create a new note.
+      o	POST /notes: Create a new note.
     
-    o	PUT /notes: Update an existing note.
+      o	PUT /notes: Update an existing note.
     
-    o	DELETE /notes: Delete a note.
+      o	DELETE /notes: Delete a note.
 
 **OUTPUT IMAGES:**
 
