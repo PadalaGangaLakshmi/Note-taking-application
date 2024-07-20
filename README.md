@@ -126,7 +126,7 @@ _**>>>Backend**_
 
 **OUTPUT IMAGES:**
 
-Login page: The login page allows users to enter their credentials to access their account
+**Login page:** The login page allows users to enter their credentials to access their account
  
 
  
@@ -137,7 +137,7 @@ Login page: The login page allows users to enter their credentials to access the
 ![WhatsApp Image 2024-07-19 at 21 39 52_25cef47b](https://github.com/user-attachments/assets/a4057a65-0879-48e9-ac01-f9d8b529701b)
 
 
-Note Creation Page:The note creation page allows users to input new note details and save them.
+**Note Creation Page:** The note creation page allows users to input new note details and save them.
 
 
 
